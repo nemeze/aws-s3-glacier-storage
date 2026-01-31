@@ -24,6 +24,10 @@ This project demonstrates how to store data in Amazon S3 using the Glacier stora
 
 ## Screenshots
 
+### Glacier Object Upload Confirmation
+![Glacier Object Details](screenshots/glacier-object-details.png)
+
+
 ### Object Stored in Glacier
 ![Glacier Object](screenshots/glacier-object-details.png)
 
