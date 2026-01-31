@@ -25,11 +25,11 @@ This project demonstrates how to store data in Amazon S3 using the Glacier stora
 ## Screenshots
 
 ### Glacier Object Upload Confirmation
-![Glacier Object Details](screenshots/glacier-object-details.png)
+(screenshots/glacier-object-details.png)
 
 
 ### Object Stored in Glacier
-![Glacier Object](screenshots/glacier-object-details.png)
+(screenshots/glacier-object-details.png)
 
 ## Conclusion
 This exercise provided hands-on experience with archival storage in AWS and demonstrated how organizations optimize costs using Amazon S3 Glacier.
